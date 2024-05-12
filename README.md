@@ -9,7 +9,7 @@ Skill issues - is a npm wrapper that console logs "Skill issues" banner when err
 `npm install -g skill-issues` 
 
 ##### How To Use
-`sis install react`
+`sis install react` or
 `skill-issues install react`
 
 Execute any other npm command with **Skill Issues**, by replacing `npm` with `sis` or `skill-issues` command.
