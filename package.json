@@ -1,13 +1,25 @@
 {
   "name": "skill-issues",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["skill-issues", "skill-issue", "npm-wrapper", "npm", "js", "npm-error", "error", "404", "cli", "fun", "useless"],
+  "keywords": [
+    "skill-issues",
+    "skill-issue",
+    "npm-wrapper",
+    "npm",
+    "js",
+    "npm-error",
+    "error",
+    "404",
+    "cli",
+    "fun",
+    "useless"
+  ],
   "author": "sanxzhar",
   "license": "ISC",
   "bin": {
