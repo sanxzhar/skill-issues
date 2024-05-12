@@ -1,7 +1,7 @@
 <!-- # Skill issues -->
 <!-- ![Licence](https://img.shields.io/github/stars/sanxzhar/skill-issues) -->
 
-#### Skill issues
+## Skill issues
 
 Skill issues - is a npm wrapper that console logs "Skill issues" banner when error occurs. 
 
