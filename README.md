@@ -12,7 +12,7 @@ Skill issues - is a npm wrapper that console logs "Skill issues" banner when err
 `sis install react`
 `skill-issues install react`
 
-Execute any other npm command with **Skill Issues**, by replacing `npm` with `sis` or `skill-issues`
+Execute any other npm command with **Skill Issues**, by replacing `npm` with `sis` or `skill-issues` command
 
 ##### Show Cases:
 ![image](https://github.com/sanxzhar/skill-issues/assets/58833843/b2315cee-1f5c-4abd-b241-6ad2918711d8)
